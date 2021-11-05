@@ -1,0 +1,174 @@
+#header_tag{
+    padding: 5px;
+    text-align: right;
+    background: #193498;
+    color: white;
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+#nav{
+    border: solid;
+    padding: 8px;
+}
+
+#home{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    padding-right: 25px;
+}
+
+#aboutus{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#training{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#gallery{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#career{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#contactus{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#home2{
+    font-size: 15px;
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: black;
+    padding-top: 8px;
+}
+
+#footer {
+    background: black;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#content{
+    padding: 20px 150px 20px 150px;
+}
+
+#heading{
+    font-size: 30px;
+}
+
+#head_about{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: #E02401;
+}
+
+#about1{
+    float:left;
+    width:20%;
+    height:20%;
+    padding-right: 20px;
+}
+
+#about1_div{
+    padding: 20px 150px 20px 150px;
+    font-size: 20px;
+}
+
+#about2{
+    float:right;
+    width:20%;
+    height:20%;
+    padding-right: 20px;
+}
+
+#about2_div{
+    padding: 20px 150px 20px 150px;
+    font-size: 20px;
+}
+
+#img{
+    width: 20%;
+    height: 10%;
+    padding-right: 100px;
+}
+
+#content_training{
+    padding: 20px 150px 20px 300px;
+}
+
+#content_gallery{
+    padding: 50px 50px 20px 80px;
+}
+
+#image{
+    width: 15%;
+    height: 10%;
+    padding-right: 10px;
+}
+
+#content_career{
+    padding-top: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+}
+
+#head_about_career{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+#india{
+    width: 15%;
+    border: solid;
+    display:inline-block;
+    text-align: center;
+    margin-left: 400px;
+    padding: 20px;
+}
+#usa{
+    width: 15%;
+    float: right;
+    border: solid;
+    display:inline-block;
+    text-align: center;
+    margin-right: 400px;
+    padding: 10px;
+}
+
